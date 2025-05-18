@@ -23,7 +23,7 @@ This dataset contains anonymized UPI transaction records:
   - Analyze transaction volumes, success/failure rates, and time-based trends
   - Identify top senders and receivers
   
-# ** Tableau Dashboard Links**
+# **Tableau Dashboard Links**
 - UPI Transaction Trends: [https://public.tableau.com/app/profile/lynn.ng6227/viz/UPITrendsAnalysis/UPIPaymentsTransactionAnalysis]
 - UPI User Insights: [https://public.tableau.com/app/profile/lynn.ng6227/viz/UPIUserBehaviour/UserBehaviour]
 
